@@ -1,1 +1,18 @@
-
+{
+  "Cardápio": [
+    {"nome": "Cachorro Quente", "preco": 12.0},
+    {"nome": "X Salada", "preco": 15.0},
+    {"nome": "X Bacon", "preco": 17.0}
+  ],
+  "Bebidas": [
+    {"nome": "Brahma", "preco": 8.0},
+    {"nome": "Skol", "preco": 8.0}
+  ],
+  "Doces": [
+    {"nome": "Trufa", "preco": 5.0},
+    {"nome": "Brownie", "preco": 7.0}
+  ],
+  "Combos": [],
+  "Promoções": [],
+  "Fidelidade": []
+}
